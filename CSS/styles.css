@@ -43,26 +43,23 @@ body {
   border-radius: 4px;
 }
 
-
 /* Partners */
 .partners-title {
-font-size: 26px;
-line-height: 1.47;
-color: #000000;
-
+  font-size: 26px;
+  line-height: 1.47;
+  color: #000000;
 }
 .pre-title {
   font-size: 16px;
-line-height: 1.88;
-color: #737373;
-
+  line-height: 1.88;
+  color: #737373;
 }
 .title-list {
 }
-.list-item{
+.list-item {
   font-size: 11px;
-line-height: 2.7;
-color: #737373;
+  line-height: 2.7;
+  color: #737373;
 }
 
 .where-title {
@@ -83,7 +80,19 @@ color: #737373;
 }
 .where-btn {
   font-size: 23px;
-line-height: 1.65;
-text-align: center;
-color: #0A8BFE;
+  line-height: 1.65;
+  text-align: center;
+  color: #0a8bfe;
+}
+
+.first-title {
+  font-size: 19px;
+  line-height: 1.47;
+  color: #000000;
+}
+
+.first-text {
+  font-size: 16px;
+  line-height: 1.88;
+  color: #737373;
 }
