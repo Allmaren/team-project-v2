@@ -1,18 +1,44 @@
-
-
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .header-link {
-    font-size: 13px;
-    line-height: 2.31;
-    color: #FFFFFF;
+  font-size: 13px;
+  line-height: 2.31;
+  color: #ffffff;
 }
 .header-btn {
-    font-size: 13px;
-    line-height: 1.23;
-    text-align: center;
+  font-size: 13px;
+  line-height: 1.23;
+  text-align: center;
 
-    color: #FFFFFF; 
+  color: #ffffff;
+}
+.header-fon {
+  background-color: #0e0e33;
+}
+
+/*Hero*/
+.hero-section {
+  background-color: #0e0e33;
+}
+.hero-title {
+  font-size: 42px;
+  line-height: 1.19;
+  color: #ffffff;
+}
+
+.hero-pretitle {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 2.73;
+  color: #ffffff;
+}
+
+.hero-button {
+  font-size: 15px;
+  line-height: 2;
+  color: #ffffff;
+  background: #0a8bfe;
+  border-radius: 4px;
 }
