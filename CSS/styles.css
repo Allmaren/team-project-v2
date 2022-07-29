@@ -42,3 +42,25 @@ body {
   background: #0a8bfe;
   border-radius: 4px;
 }
+
+
+/* Partners */
+.partners-title {
+font-size: 26px;
+line-height: 1.47;
+color: #000000;
+
+}
+.pre-title {
+  font-size: 16px;
+line-height: 1.88;
+color: #737373;
+
+}
+.title-list {
+}
+.list-item{
+  font-size: 11px;
+line-height: 2.7;
+color: #737373;
+}
